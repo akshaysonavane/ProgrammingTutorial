@@ -4,7 +4,7 @@ public class Add_001
 	{
 	int a=10,b=5;
 	int sum;
-	sum=a+b;
+	sum=a-b;
 	System.out.println("the result is:"+sum);
 	}
 }
